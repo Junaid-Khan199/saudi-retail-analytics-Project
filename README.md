@@ -29,14 +29,13 @@ The project initially focused on demonstrating advanced **data cleaning and tran
 ## Before Cleaning Returns
 ![Before Cleaning Returns](screenshots/2_Before_Cleaning_Returns.png)
 
-
 ---
 
 ## After Cleaning Transactions
 ![After Cleaning Transactions](screenshots/3_After_Cleaning_Transactions.png)
 
 ## After Cleaning Returns
-
+![After Cleaning Returns](screenshots/4_After_Cleaning_Returns.png)
 
 ---
 
