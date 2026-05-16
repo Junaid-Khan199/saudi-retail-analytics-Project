@@ -24,9 +24,10 @@ The project initially focused on demonstrating advanced **data cleaning and tran
 # 📸 Project Screenshots
 
 ## Before Cleaning Transactions
-![Before Cleaning](screenshots/1_Before_Cleaning_Transactions.png)
+![Before Cleaning Transactions](screenshots/1_Before_Cleaning_Transactions.png)
 
 ## Before Cleaning Returns
+1[Before Cleaning Returns](screenshots/2_Before_Cleaning_Returns.png)
 
 
 ---
