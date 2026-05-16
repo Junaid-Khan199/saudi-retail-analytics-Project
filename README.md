@@ -39,16 +39,6 @@ The project initially focused on demonstrating advanced **data cleaning and tran
 
 ---
 
-## Executive Sales Dashboard
-
-
----
-
-## Profitability & Cost Analysis Dashboard
-
-
----
-
 ## 🧠 Core Objectives
 
 - Demonstrate real-world advanced data cleaning & Data Transformation expertise
@@ -194,6 +184,12 @@ This enabled:
 
 ---
 
+## Executive Sales Dashboard
+
+![Executive Summary](screenshots/5_Executive_Summary_Dashboard.png)
+
+
+
 # 📊 Dashboards Included
 
 ## 🟦 Executive Sales Dashboard
@@ -230,6 +226,11 @@ Provides a high-level overview of business performance including revenue, profit
 - Segment Filters
 - Year Filters
 - Monthly Slicers
+
+---
+
+## Profitability & Cost Analysis Dashboard
+
 
 ---
 
