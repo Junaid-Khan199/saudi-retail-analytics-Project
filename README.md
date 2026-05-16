@@ -184,7 +184,7 @@ This enabled:
 
 ---
 
-## 🟦 Executive Sales Dashboard
+## 🟨 Executive Sales Dashboard
 
 ![Executive Summary](screenshots/5_Executive_Summary_Dashboard.png)
 
@@ -229,7 +229,7 @@ Provides a high-level overview of business performance including revenue, profit
 
 ---
 
-## 🟧 Profitability & Cost Analysis Dashboard
+## 🟩 Profitability & Cost Analysis Dashboard
 ![Profitability Dashboard](screenshots/6_Profitability_Analysis_Dashboard.png)
 
 ---
