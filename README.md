@@ -230,7 +230,7 @@ Provides a high-level overview of business performance including revenue, profit
 ---
 
 ## Profitability & Cost Analysis Dashboard
-
+![Profitability Dashboard](screenshots/6_Profitability_Analysis_Dashboard.png)
 
 ---
 
