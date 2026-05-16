@@ -33,6 +33,7 @@ The project initially focused on demonstrating advanced **data cleaning and tran
 ---
 
 ## After Cleaning Transactions
+![After Cleaning Transactions](screenshots/3_After_Cleaning_Transactions.png)
 
 ## After Cleaning Returns
 
